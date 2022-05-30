@@ -1,0 +1,22 @@
+admin{
+    vishal : 1
+}
+
+center{
+    warje : 123
+    mai : 12123
+    civil : 123
+    immunization : 123
+}
+
+supplier{
+    pfizer : 000;
+    covishield : 12123;
+    pruthak : 0909;
+}
+
+customer{
+    2727272727:27;
+    9890987654 : 9898;
+    2147483647 :223;
+}
